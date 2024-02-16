@@ -2,7 +2,7 @@
 
 
 
-
+![movie-theatreartlife](images/movie-theatreartlife.gif"segment")
 
 
 
